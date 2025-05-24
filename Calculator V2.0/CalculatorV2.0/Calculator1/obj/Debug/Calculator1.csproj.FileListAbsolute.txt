@@ -1,0 +1,32 @@
+C:\Users\User\source\repos\Calculator1\Calculator1\bin\Debug\Calculator1.exe.config
+C:\Users\User\source\repos\Calculator1\Calculator1\bin\Debug\Calculator1.exe
+C:\Users\User\source\repos\Calculator1\Calculator1\bin\Debug\Calculator1.pdb
+C:\Users\User\source\repos\Calculator1\Calculator1\obj\Debug\Calculator1.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Calculator1\Calculator1\obj\Debug\Calculator1.Form1.resources
+C:\Users\User\source\repos\Calculator1\Calculator1\obj\Debug\Calculator1.Properties.Resources.resources
+C:\Users\User\source\repos\Calculator1\Calculator1\obj\Debug\Calculator1.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Calculator1\Calculator1\obj\Debug\Calculator1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Calculator1\Calculator1\obj\Debug\Calculator1.exe
+C:\Users\User\source\repos\Calculator1\Calculator1\obj\Debug\Calculator1.pdb
+C:\Users\User\source\repos\Calculator1\Calculator1\obj\Debug\Calculator1.exe.config
+C:\Users\User\Desktop\Calculator-WinForm-main\Calculator1\Calculator1\bin\Debug\Calculator1.exe.config
+C:\Users\User\Desktop\Calculator-WinForm-main\Calculator1\Calculator1\bin\Debug\Calculator1.exe
+C:\Users\User\Desktop\Calculator-WinForm-main\Calculator1\Calculator1\bin\Debug\Calculator1.pdb
+C:\Users\User\Desktop\Calculator-WinForm-main\Calculator1\Calculator1\obj\Debug\Calculator1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Calculator-WinForm-main\Calculator1\Calculator1\obj\Debug\Calculator1.exe.config
+C:\Users\User\Desktop\Calculator-WinForm-main\Calculator1\Calculator1\obj\Debug\Calculator1.Form1.resources
+C:\Users\User\Desktop\Calculator-WinForm-main\Calculator1\Calculator1\obj\Debug\Calculator1.Properties.Resources.resources
+C:\Users\User\Desktop\Calculator-WinForm-main\Calculator1\Calculator1\obj\Debug\Calculator1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Calculator-WinForm-main\Calculator1\Calculator1\obj\Debug\Calculator1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Calculator-WinForm-main\Calculator1\Calculator1\obj\Debug\Calculator1.exe
+C:\Users\User\Desktop\Calculator-WinForm-main\Calculator1\Calculator1\obj\Debug\Calculator1.pdb
+C:\Users\User\Desktop\Calculator V2.0\CalculatorV2.0\Calculator1\bin\Debug\CalculatorV2.0.exe.config
+C:\Users\User\Desktop\Calculator V2.0\CalculatorV2.0\Calculator1\bin\Debug\CalculatorV2.0.exe
+C:\Users\User\Desktop\Calculator V2.0\CalculatorV2.0\Calculator1\bin\Debug\CalculatorV2.0.pdb
+C:\Users\User\Desktop\Calculator V2.0\CalculatorV2.0\Calculator1\obj\Debug\Calculator1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Calculator V2.0\CalculatorV2.0\Calculator1\obj\Debug\Calculator1.Form1.resources
+C:\Users\User\Desktop\Calculator V2.0\CalculatorV2.0\Calculator1\obj\Debug\Calculatorv2.Properties.Resources.resources
+C:\Users\User\Desktop\Calculator V2.0\CalculatorV2.0\Calculator1\obj\Debug\Calculator1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Calculator V2.0\CalculatorV2.0\Calculator1\obj\Debug\Calculator1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Calculator V2.0\CalculatorV2.0\Calculator1\obj\Debug\CalculatorV2.0.exe
+C:\Users\User\Desktop\Calculator V2.0\CalculatorV2.0\Calculator1\obj\Debug\CalculatorV2.0.pdb
